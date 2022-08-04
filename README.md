@@ -1,4 +1,4 @@
 # Simple three.js project. Here I'll update my studeis of threejs.
 
-[]: # Language: javascript
-[]: # Path: src/index.js 
+[0]: # Language: javascript
+[0]: # Path: src/index.js 
